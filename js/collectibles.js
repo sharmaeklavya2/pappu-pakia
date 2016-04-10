@@ -10,7 +10,7 @@
 
   - One for pappu's invincibility
   */
-  
+
   mit.Collectible = function() {
 
     // x/y pos

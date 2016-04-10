@@ -1,11 +1,9 @@
 # Pappu Pakia
 
-![Pappu Pakia](http://i.imgur.com/zYD37.png)
+![Pappu Pakia](img/screenshot.png)
 
 This HTML5 Game (Pappu Pakia) has been happily made for the
 [Github Game Off 2012](https://github.com/blog/1303-github-game-off).
-
-**[PLAY THE GAME HERE](http://khele.in/pappu-pakia/)**
 
 ## Credits
 
@@ -45,7 +43,5 @@ for a short period. Berries spawning clones that'll destroy
 anything that comes in their way!
 
 Collisions are not super strict to make the gameplay a little less harder.
-
-No Libraries/Frameworks used. All Custom Code and Custom Physics.
 
 Hit Enter or Spacebar keys to (re)start the game.

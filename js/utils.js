@@ -4,7 +4,7 @@
 
   /*
   Random Number Generator.
-  
+
   Pretty awesome explanation here:
   http://stackoverflow.com/a/1527820
   */
@@ -32,7 +32,7 @@
       bounds1.end_y < bounds2.start_y ||
       bounds2.end_y < bounds1.start_y
     );
-    
+
   };
 
 }());
