@@ -7,8 +7,8 @@ This HTML5 Game (Pappu Pakia) has been happily made for the
 
 ## Credits
 
-Handsomely coded by [Rishabh](http://twitter.com/_rishabhp).
-Beautiful graphics by [Kushagra](http://twitter.com/solitarydesigns).
+Handsomely coded by [Rishabh](https://twitter.com/_rishabhp).
+Beautiful graphics by [Kushagra](https://twitter.com/solitarydesigns).
 
 ## Sharing is Caring <3
 
