@@ -190,7 +190,7 @@ mit.main = function() {
   mit.config.canvas_height = mit.H = H;
 
   // Gravity
-  mit.gravity = 0.7;
+  mit.gravity = 0.9;
 
   // Velocity x,y
   mit.vx = 0;
@@ -201,7 +201,7 @@ mit.main = function() {
   //
   // You can console.log velocities in drawing methods
   // and from there decide what to set as the cap.
-  mit.v_cap = 6.5;
+  mit.v_cap = 8.7;
 
   // Accelaration x,y
   mit.ax = 0;
@@ -219,7 +219,7 @@ mit.main = function() {
       mit.game_over = 0;
     }
 
-    mit.ay = -1.5;
+    mit.ay = -1.8;
     mit.flying_up = 1;
   };
 
@@ -334,7 +334,7 @@ mit.main = function() {
   mit.last_time = new Date();
   setInterval(function() {
     mit.ui.fps_count.html(mit.fps.toFixed(0) + ' FPS');
-  }, 1000);
+  }, 30);
 
 
   // Initializations
@@ -409,7 +409,7 @@ mit.main = function() {
       mit.Pappu.checkCloneCollision();
 
       // Send over Pakias (Enemies)
-      if (mit.score > 199)
+      if (mit.score > 50)
         mit.PakiaUtils.render(ctx);
 
       // Update score
